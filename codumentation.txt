@@ -1,0 +1,25 @@
+ammend the logo.
+
+h1> Earn from airbnb in-room dinning.
+
+2.Form to come before testimony.
+
+3. inputfield one: => crystal tree house
+
+4. questions=> reduce answers font size increase questions fontsize and also make the answers in block format
+     question 2, make "form" to be like a link redirecting to the form.
+    ansers should be like points. use bulets. 
+
+5.about us: add icons
+
+6. partners add their logo(enlose their logo in a => glovo, matercard visa, orda africa, urba, good life pharmacy.
+
+7.another photo
+
+
+questions>
+whre i will be visiting emails.
+how will be accessing emails in the domain.
+domain not secured.
+
+
